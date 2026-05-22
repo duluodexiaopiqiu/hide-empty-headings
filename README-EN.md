@@ -21,6 +21,6 @@ No configuration required after installation. The plugin works automatically whe
 
 ## Author
 
-Full-stack programmer, independent developer running a one-person company
+Full-stack programmer, independent developer running a one-person company, ALL in AI
 
 📧 Contact: 2430486030@qq.com
