@@ -18,3 +18,9 @@ Copy the entire folder (this code project) to `.obsidian\plugins`
 ## Usage
 
 No configuration required after installation. The plugin works automatically when you open any note in reading mode.
+
+## Author
+
+Full-stack programmer, independent developer running a one-person company
+
+📧 Contact: 2430486030@qq.com
