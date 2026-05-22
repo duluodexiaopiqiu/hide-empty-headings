@@ -1,0 +1,10 @@
+{
+  "name": "hide-empty-headings",
+  "version": "1.0.0",
+  "description": "Hide headings with no content in reading view隐藏阅读模式下没有内容的标题",
+  "main": "main.js",
+  "scripts": {
+    "build": "echo no build needed"
+  },
+  "license": "MIT"
+}
