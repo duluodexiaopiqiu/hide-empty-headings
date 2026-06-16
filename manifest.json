@@ -3,7 +3,7 @@
   "name": "Hide Empty Headings",
   "version": "1.0.1",
   "minAppVersion": "0.15.0",
-  "description": "Hide empty headings in Obsidian reading mode.",
+  "description": "Hide empty headings in reading mode.",
   "author": "醒醒",
   "authorUrl": "https://xingxing.aigongxue.cfd/",
   "isDesktopOnly": false
