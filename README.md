@@ -25,7 +25,7 @@ Automatically hide headings that have no content below them in Obsidian's readin
 
 ### Manual / 手动安装
 
-1. Download the latest release from [GitHub Releases](https://github.com/xingxing/hide-empty-headings/releases)
+1. Download the latest release from [GitHub Releases](https://github.com/duluodexiaopiqiu/hide-empty-headings/releases)
 2. Extract to `.obsidian/plugins/hide-empty-headings/`
 3. Enable the plugin in Obsidian Settings → Community Plugins
 4. 从 GitHub Releases 下载最新版本
