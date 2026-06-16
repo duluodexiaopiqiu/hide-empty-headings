@@ -1,7 +1,7 @@
 {
   "id": "hide-empty-headings",
   "name": "Hide Empty Headings",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "minAppVersion": "0.15.0",
   "description": "Removes empty headings in reading view to keep your notes clean.",
   "author": "醒醒",
