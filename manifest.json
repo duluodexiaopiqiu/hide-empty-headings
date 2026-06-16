@@ -3,7 +3,7 @@
   "name": "Hide Empty Headings",
   "version": "1.0.2",
   "minAppVersion": "0.15.0",
-  "description": "Automatically hides headings with no content below them in reading mode.",
+  "description": "Removes empty headings in reading view to keep your notes clean.",
   "author": "醒醒",
   "authorUrl": "https://xingxing.aigongxue.cfd/",
   "isDesktopOnly": false
